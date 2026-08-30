@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "936704ac930e170510ed819d3b1d1cc3e20acca7",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2025-09-02T08:24:14Z",
+    "files": 2,
+    "merge": false,
+    "message": "Update metadata\n"
+  },
+  "repo": "https://github.com/ropensci/gpg",
+  "pkg": "gpg",
+  "time": "2026-08-30T07:34:29Z"
+}
